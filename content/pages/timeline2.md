@@ -1,5 +1,5 @@
 ---
-title: TIMELINE
+title: Timeline
 img_alt: lorem-ipsum
 seo:
   title: ''
