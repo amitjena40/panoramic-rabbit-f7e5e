@@ -32,6 +32,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-\[1] [**C-Net: Contextual Network for Sarcasm Detection**](https://aclanthology.org/2020.figlang-1.8/) \<br> **Amit Kumar Jena**, \*Aman Sinha, \*Rohit Agarwal  \<br>  *Proceedings of the Second Workshop on Figurative Language Processing, ACL 2020*
+\[1] [**C-Net: Contextual Network for Sarcasm Detection**](https://aclanthology.org/2020.figlang-1.8/) <br> **Amit Kumar Jena**, \*Aman Sinha, \*Rohit Agarwal  \<br>  *Proceedings of the Second Workshop on Figurative Language Processing, ACL 2020*
 
 \*=Equal Contribution
