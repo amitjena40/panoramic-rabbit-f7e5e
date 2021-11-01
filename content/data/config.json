@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "TIMELINE",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
