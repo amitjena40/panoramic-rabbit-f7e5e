@@ -2,7 +2,7 @@
 title: Publications
 seo:
   title: Publications
-  description: A reference for suggested typographic treatment and styles for your content
+  description: List of my publications
   extra:
     - name: 'og:type'
       value: website
