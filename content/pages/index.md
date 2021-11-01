@@ -17,7 +17,7 @@ sections:
       experience of working on various projects to build products that can
       positively impact the lives of people in their day-to-day activities. My
       prime area of research interest is in Natural Language Processing, Deep
-      Learning, and Machine Learning in general.
+      Learning and Machine Learning in general.
     actions:
       - label: Contact Me
         url: /contact
