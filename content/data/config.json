@@ -18,7 +18,7 @@
             },
             {
                 "label": "TIMELINE",
-                "url": "/timeline/",
+                "url": "/timeline2/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
