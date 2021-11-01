@@ -5,9 +5,14 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Amit Kumar Jena!'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I am pursuing Integrated Masters of Technology in Mathematics and
+      Computing at Indian Institute of Technology (Indian School of Mines)
+      Dhanbad. My aim is to use my knowledge and experience of working on
+      various projects to build products that can positively impact the lives of
+      people in their day-to-day activities. My prime area of research interest
+      is in Natural Language Processing, Deep Learning, and Machine Learning in
+      general. 
   - section_id: about
     type: section_content
     title: About
