@@ -23,7 +23,7 @@ sections:
         url: /contact
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: Amit Kumar Jena
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
