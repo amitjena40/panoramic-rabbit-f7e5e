@@ -22,7 +22,7 @@ layout: page
 
 ##### MAY, 2020
 
-*   My paper titled **"C-Net: Contextual Network for Sarcasm Detection"** is accepted in the Figurative Language Processing Workshop, co-located with **ACL 2020**.
+*   My paper titled **"C-Net: Contextual Network for Sarcasm Detection"** is accepted in the Figurative Language Processing Workshop, co-located with **ACL 2020**. Code repository: [link](https://github.com/dsciitism/C-Net)
 
 ##### DEC, 2019
 
