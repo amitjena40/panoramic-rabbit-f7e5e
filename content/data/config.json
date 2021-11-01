@@ -32,7 +32,8 @@
             {
                 "label": "resume",
                 "url": "https://drive.google.com/file/d/1mjnM6pjToLI8099lV_DpT85ER4lTiD73/view",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "Contact",
