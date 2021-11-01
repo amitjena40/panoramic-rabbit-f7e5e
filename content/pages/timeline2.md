@@ -32,7 +32,7 @@ layout: page
 
 ##### OCT, 2019
 
-*   Participated in **“Finding Chandler - Sarcasm Detection Challenge”** hosted at Kaggle. Used various NLP techniques and **transfer learning** approaches with** ULMFiT model **to develop a final model having an **F1-score of 0.90379**.
+*   Participated in **“Finding Chandler - Sarcasm Detection Challenge”** hosted at Kaggle. Used various NLP techniques and **transfer learning** approaches with **ULMFiT model** to develop a final model having an **F1-score of 0.90379**.
 
 *   Secured **5th** position among 30 teams participating in this challenge.
 
