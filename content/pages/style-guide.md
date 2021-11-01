@@ -1,7 +1,7 @@
 ---
 title: Publications
 seo:
-  title: Theme Style Guide
+  title: Publications
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
