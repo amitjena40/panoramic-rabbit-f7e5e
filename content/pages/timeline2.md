@@ -8,9 +8,7 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+## MAY, 2021
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   Started working as an Applied Scientist Intern at **Amazon's India Machine Learning Team** on the problem of MRP Compliance
 
-- Lorem ipsum
-- dolor sit amet
