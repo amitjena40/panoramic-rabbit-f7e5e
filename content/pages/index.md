@@ -10,11 +10,14 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I am pursuing Integrated Masters of Technology in Mathematics and
+      Computing at Indian Institute of Technology (Indian School of Mines)
+      Dhanbad. My aim is to use my knowledge and experience of working on
+      various projects to build products that can positively impact the lives of
+      people in their day-to-day activities. My prime area of research interest
+      is in Natural Language Processing, Deep Learning, and Machine Learning in
+      general.
     actions:
       - label: Contact Me
         url: /contact
