@@ -13,11 +13,16 @@ sections:
     content: >
       I am pursuing Integrated Masters of Technology in Mathematics and
       Computing at [Indian Institute of Technology (Indian School of Mines)
-      Dhanbad](https://www.iitism.ac.in/). My aim is to use my knowledge and
-      experience of working on various projects to build products that can
-      positively impact the lives of people in their day-to-day activities. My
-      prime area of research interest is in Natural Language Processing, Deep
-      Learning and Machine Learning in general.
+      Dhanbad](https://www.iitism.ac.in/). My prime area of research interest is
+      in Natural Language Processing, Deep Learning, and Machine Learning in
+      general. I have previously worked on Sarcasm Detection in conversational
+      settings, which led to the publication of my first research paper.
+      Currently, I am interested in working on methods that can help in the
+      interpretability of large language models for various NLP tasks. I am also
+      interested in NLP methods that deal with multilingual data, especially in
+      the Indian context. I intend to use my knowledge and experience of working
+      on various projects to build products that can positively impact the lives
+      of people in their day-to-day activities.
     actions:
       - label: Contact Me
         url: /contact
