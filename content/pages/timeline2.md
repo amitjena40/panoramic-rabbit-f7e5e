@@ -10,7 +10,7 @@ layout: page
 ---
 ##### JAN, 2022
 
-*   Started working as an **intern** at the **Applied Sciences team at Flipkart**.
+*   Started working as an **intern** at the **Applied Sciences team **at** Flipkart**.
 
 ##### MAY, 2021
 
