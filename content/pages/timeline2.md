@@ -10,11 +10,9 @@ layout: page
 ---
 ##### JAN, 2022
 
-*   Started working as an **intern** at the **Applied Sciences team **at** Flipkart**.
+*   Started working as an **intern** at the **Applied Sciences team at Flipkart**.
 
-
-
-MAY, 2021
+##### MAY, 2021
 
 *   Started working as an **Applied Scientist Intern** at **Amazon's India Machine Learning Team** on the problem of MRP Compliance.
 
